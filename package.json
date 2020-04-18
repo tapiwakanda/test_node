@@ -1,0 +1,25 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapiwakanda/test_node.git"
+  },
+  "author": "Tapiwanashe Kanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapiwakanda/test_node/issues"
+  },
+  "homepage": "https://github.com/tapiwakanda/test_node#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
